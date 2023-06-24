@@ -1,6 +1,7 @@
 # lets-upgrade
 lets- upgrade is the platform to learn daily
 - unlock your computational potential
+* start with an overview
 ## save this program
 ---
 

@@ -2,7 +2,8 @@
 lets- upgrade is the platform to learn daily
 - unlock your computational potential
 * start with an overview
-* letsupgrade is one of the website
+  
+* letsupgrade is one of the website used to learn
 ## save this program
 ---
 

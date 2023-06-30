@@ -1,5 +1,5 @@
 # lets-upgrade
-lets- upgrade is the platform to learn daily
+lets-upgrade is the platform to learn daily.
 - unlock your computational potential.
 * start with an overview.
   

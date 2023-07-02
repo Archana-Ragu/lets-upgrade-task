@@ -2,6 +2,7 @@
 lets-upgrade is the platform to learn daily.
 - unlock your computational potential.
 * start with an overview.
+* lets upgrade ourself.
   
 * letsupgrade is one of the website used to learn some of the programming language.
 

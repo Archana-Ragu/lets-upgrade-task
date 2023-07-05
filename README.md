@@ -27,6 +27,7 @@ lets-upgrade is the platform to learn daily :book:
            -Stephen Hawking 👍
   ---
 
-  tutorial of [readme.md](https://github.com/Archana-Ragu/basic-read-md)
   
 > archnanaragu15727 🥀 [user](https://letsupgrade.in/user/archanaragu15727)
+ 
+>  tutorial of [readme.md](https://github.com/Archana-Ragu/basic-read-md)

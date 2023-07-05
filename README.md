@@ -30,4 +30,4 @@ lets-upgrade is the platform to learn daily :book:
   
 > archnanaragu15727 🥀 [user](https://letsupgrade.in/user/archanaragu15727)
  
->  tutorial of [readme.md](https://github.com/Archana-Ragu/basic-read-md)
+  tutorial of [readme.md](https://github.com/Archana-Ragu/basic-read-md)

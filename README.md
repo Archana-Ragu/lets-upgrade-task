@@ -9,7 +9,7 @@ lets-upgrade is the platform to learn daily :book:
 
 <div align="center">
 	<h1>¡ START !</h1>
-	<p>📖</p>
+	<p>📑</p>
 
 
 </div>

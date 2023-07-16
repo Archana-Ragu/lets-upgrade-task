@@ -3,9 +3,10 @@ lets-upgrade is the platform to learn daily :book:
 - unlock your computational potential.
 * start with an overview.
 * lets upgrade ourself.
-* [`user`](https://letsupgrade.in/user/archanaragu15727)
+*  letsupgrade is one of the website used to learn some of the programming language.
+  - [`user`](https://letsupgrade.in/user/archanaragu15727)
   
-* letsupgrade is one of the website used to learn some of the programming language.
+
 
 <div align="center">
 	<h1>¡ START !</h1>

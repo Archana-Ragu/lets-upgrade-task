@@ -17,7 +17,7 @@ lets-upgrade is the platform to learn daily :book:
 
 </div>
 
-## save this :-
+## save this remainder :-
 ---
 
 

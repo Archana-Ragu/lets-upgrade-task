@@ -1,4 +1,4 @@
-# lets-upgrade  hghj
+# lets-upgrade  
  lets-upgrade is the platform to learn daily :book:
 * unlock your computational potential
 * start with an overview

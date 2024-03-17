@@ -2,7 +2,7 @@
  lets-upgrade is the platform to learn daily :book:
 * unlock your computational potential
 * start with an overview
-* lets upgrade ourself is one of the greatest task to solve in our day 
+* lets upgrade ourself  
 *  letsupgrade is one of the website used to learn some of the programming language. 
 - lets-upgrade user 
   - `archanaragu15727`

@@ -4,7 +4,7 @@
 * start with an overview
 * lets upgrade ourself is one of the greatest task to solve in our day 
 *  letsupgrade is one of the website used to learn some of the programming language. 
-- lets-upgrade user  we can manipulate to learn many 
+- lets-upgrade user 
   - `archanaragu15727`
     - [`user`](https://letsupgrade.in/user/archanaragu15727)
   
